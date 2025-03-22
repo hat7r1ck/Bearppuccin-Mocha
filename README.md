@@ -1,7 +1,11 @@
 # Bearppuccin-Mocha
-## Bear Catppuccin Mocha Theme
 
-A custom **Catppuccin Mocha** theme for Bear, offering a cozy dark experience with rich, vibrant highlights. Since there’s no official documentation on Bear’s internal theme variables, the structure from the default **Catppuccin Latte.theme** file was used. All colors follow the [Catppuccin Style Guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
+<p align="center">
+  <img src="image/markdown-notes-demo.jpeg"/>
+</p>
+
+## Bear Notes Catppuccin Mocha Theme
+A custom **Catppuccin Mocha** theme for [Bear](https://bear.app/), offering a cozy dark experience with rich, vibrant highlights. Since there’s no official documentation on Bear’s internal theme variables, the structure from the default **Catppuccin Latte.theme** file was used. All colors follow the [Catppuccin Style Guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
 
 > **Note:** Catppuccin is available in four flavors—Latte, Frappe, Macchiato, and Mocha. Currently, **only Mocha** is provided here; there are no plans to create the other three flavors at this time.
 
