@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "base theme": "Red Graphite"
+  },
+  "base": {
+    "text color": "#cdd6f4",
+    "text secondary color": "#cba6f7",
+    "text tertiary color": "#94e2d5",
+    "background color": "#1e1e2e",
+    "background secondary color": "#181825",
+    "background tertiary color": "#45475a",
+    "stroke color": "#94e2d5",
+    "accent color": "#74c7ec",
+    "search primary color": "#6c7086"
+  },
+  "sidebar": {
+    "text color": "#89b4fa",
+    "text secondary color": "#cba6f7",
+    "background color": "#181825",
+    "background secondary color": "#11111b",
+    "accent color": "#1e1e2e",
+    "stroke color": "#94e2d5",
+    "icon color": "#89b4fa",
+    "selected icon color": "#cba6f7",
+    "toolbar": {
+      "icon color": "#74c7ec"
+    }
+  },
+  "notes": {
+    "pin color": "#94e2d5",
+    "title color": "#89b4fa",
+    "ribbon color": "#cba6f7",
+    "toolbar": {
+      "icon color": "#cba6f7",
+      "text color": "#74c7ec"
+    }
+  },
+  "placeholder": {
+    "background color": "$base.background color",
+    "background stroke color": "#74c7ec",
+    "shadow color": "$base.background tertiary color",
+    "stroke color": "#cba6f7"
+  },
+  "editor": {
+    "link color": "#eba0ac",
+    "selection inactive color": "#f38ba8",
+    "headers": {
+      "text color": "#74c7ec"
+    },
+    "table": {
+      "border color": "#cba6f7"
+    },
+    "separator": {
+      "border color": "#94e2d5"
+    },
+    "task": {
+      "border color": "#74c7ec",
+      "check color": "#bac2de"
+    },
+    "toolbar": {
+      "icon color": "#cba6f7",
+      "text color": "#74c7ec"
+    },
+    "code": {
+      "syntax highlight": {
+        "comment": "#9399b2",
+        "constant": "#fab387",
+        "number": "#fab387",
+        "string": "#a6e3a1",
+        "entity": "#f38ba8",
+        "keyword": "#cba6f7",
+        "function": "#89b4fa",
+        "variable": "#89dceb"
+      }
+    },
+    "highlighter": {
+      "default": {
+        "background color": "#45475a",
+        "text color": "#cdd6f4"
+      },
+      "red": {
+        "background color": "#f38ba8",
+        "text color": "#1e1e2e"
+      },
+      "blue": {
+        "background color": "#89b4fa",
+        "text color": "#1e1e2e"
+      },
+      "green": {
+        "background color": "#a6e3a1",
+        "text color": "#1e1e2e"
+      },
+      "yellow": {
+        "background color": "#f9e2af",
+        "text color": "#1e1e2e"
+      },
+      "purple": {
+        "background color": "#cba6f7",
+        "text color": "#1e1e2e"
+      }
+    }
+  }
+}
